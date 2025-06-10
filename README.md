@@ -1,5 +1,5 @@
 # forage_bcgx
-Completed job simulation by BCG X on Forage<br> 
+Completed a BCG X job simulation on Forage<br> 
 Goal: Transform businesses using data science to help companies generate competitive advantage. <br>
 
 1.	Business understanding & problem framing: what is the context of this problem and why are they trying to solve it?
