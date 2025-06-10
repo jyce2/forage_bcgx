@@ -15,3 +15,9 @@ Business problem: An electric company shares that customer churn rates are incre
 Hypothesis: Is churn driven by customers' sensitivity to price changes?  
 
 Plan: Model customer churn probabilities using a binary classification algorithm (e.g. Random Forest). Examine the predictive model's complexity, explained features, and performance metrics (e.g. accuracy, precision, and recall) to determine factors predicting churn. 
+
+Datasets: 
+1.	Customer data - which should include characteristics of each client, for example, industry, historical electricity consumption, date joined as customer etc.
+2.	Churn data - which should indicate if customer has churned
+3.	Historical price data – which should indicate the prices the client charges to each customer for both electricity and gas at specific time intervals
+
