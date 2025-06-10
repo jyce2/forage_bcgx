@@ -8,3 +8,9 @@ Goal: Transform businesses using data science to help companies generate competi
 4.	Modeling and evaluation: can we use this dataset to accurately make predictions? If so, are they reliable?
 5.	Insights & Recommendations: how we can communicate the value of these predictions by explaining them in a way that matters to the business?
 
+
+Business problem: An electric company shares that customer churn rates are increasing at an unprecendented rate, and the company wants to know the factors contributing to this problem by leveraging data on client usage, time, price, and churn. 
+
+Hypothesis: Is churn driven by customers' sensitivity to price changes?  
+
+Plan: Model customer churn probabilities using a binary classification algorithm (e.g. Random Forest). Examine the predictive model's complexity, explained features, and performance metrics (e.g. accuracy, precision, and recall) to determine factors predicting churn. 
