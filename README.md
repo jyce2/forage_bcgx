@@ -10,7 +10,7 @@ Goal: Transform businesses using data science to help companies adapt to changes
 5.	Insights & Recommendations: how we can communicate the value of these predictions by explaining them in a way that matters to the business?
 
 
-Business problem: An electric company shares that customer churn rates are increasing at an unprecendented rate, and the company wants to know the factors contributing to this problem by leveraging data on client usage, time, price, and churn. 
+Business problem: An electric company is a client of BCGX with a current problem in their company, and asks BCGX for help. Customer churn rates are increasing, and the company wants to know what factors are contributing to this problem by leveraging data on customer usage, time, price, and churn. 
 
 Hypothesis: Is churn driven by customers' sensitivity to price changes?  
 
